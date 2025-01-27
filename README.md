@@ -1,8 +1,8 @@
 # Toncoin Price Bot
 
-This Telegram bot posts the price of ** Toncoin ** on a specific channel every minute. It is useful for those who want to closely follow Toncoin's quote.
+This Telegram bot posts the price of **Toncoin** on a specific channel every minute. It is useful for those who want to closely follow Toncoin quote.
 
-Support the creator by joining their development channel on Telegram: [J3an | Dev] (https://t.me/j3d3v)
+Support the creator by joining their development channel on Telegram: [J3an | Dev](https://t.me/j3d3v)
 ## Funcionalidades
 
 - Get the price of Toncoin from an official API.
@@ -34,19 +34,19 @@ pip install -r requirements.txt
 
 ## Configuration
 
-1. ** Clone the repository: **
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/dzj3an/Toncoin-Price.git
    cd Toncoin-Price
    ```
 
-2. ** Get your credentials: **
+2. **Get your credentials:**
 
-   - ** BOT_TOKEN **: Generate a token for your bot from [@ BotFather](https://t.me/BotFather) on Telegram.
+   - **BOT_TOKEN**: Generate a token for your bot from [@ BotFather](https://t.me/BotFather) on Telegram.
    - **API_HASH** y **API_ID**: Create an application on the site of [Telegram](https://my.telegram.org/auth) to get these credentials.
    - **TON_TOKEN**: Sign up for [Ton Console](https://tonconsole.com/) to get an access token.
 
-3. ** Configure credentials in `config.py`: **
+3. **Configure credentials in `config.py`:**
 
    ```python
    BOT_TOKEN = "YOUR_BOT_TOKEN"
@@ -76,7 +76,7 @@ When you start, go to the Bot and press /menu then turn on the process and you'r
 This bot was created by [J3an](https://github.com/dzj3an).
 
 
-You would help a lot if you follow the page of the bookstore that we use in this bot to connect with Telegram. This library is ** kurigram **, a fork of ** pyrogram **.  
+You would help a lot if you follow the page of the bookstore that we use in this bot to connect with Telegram. This library is **kurigram**, a fork of **pyrogram**.  
 
 Find information on your official channel:  
 [Kurigram](https://t.me/kurigram_news)
